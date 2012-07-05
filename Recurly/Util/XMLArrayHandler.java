@@ -1,4 +1,4 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util;
+package Recurly.Util;
 
 
 import org.xml.sax.Attributes;

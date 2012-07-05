@@ -1,4 +1,4 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util;
+package Recurly.Util;
 
 
 public class RecurlyException extends Exception

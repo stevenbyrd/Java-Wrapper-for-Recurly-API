@@ -1,4 +1,4 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Client;
+package Recurly.Client;
 
 
 import com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util.RecurlyException;

@@ -1,7 +1,7 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util;
+package Recurly.Util;
 
 
-import com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Client.RecurlyClient;
+import Recurly.Client.RecurlyClient;
 import org.apache.http.Header;
 import org.xml.sax.InputSource;
 import org.xml.sax.XMLReader;

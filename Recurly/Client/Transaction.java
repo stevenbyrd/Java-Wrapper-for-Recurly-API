@@ -1,7 +1,7 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Client;
+package Recurly.Client;
 
 
-import com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util.*;
+import Recurly.Util;
 import java.util.HashMap;
 import java.util.List;
 

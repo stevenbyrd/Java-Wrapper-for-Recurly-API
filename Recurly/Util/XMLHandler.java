@@ -1,7 +1,7 @@
-package com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Util;
+package Recurly.Util;
 
 
-import com.cloudsnap.WorkflowCore.ClientLibraries.Recurly.Client.Account;
+import Recurly.Client.Account;
 import org.apache.commons.lang.WordUtils;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
